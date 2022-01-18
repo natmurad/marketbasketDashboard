@@ -10,4 +10,4 @@ This dashboard brings several insights about the dataset. It contains informatio
 There is a treemap showing the most sold products and brands.
 It is also showed in this dashboard a Market Basket Analysis that shows which products are commonly bought together and which products bought together are more profitable. These combinations can be interesting to offers new coupons and promotions.
 
-The interactive dashboard is available on: [PowerBI Online Dashboard](https://app.powerbi.com/links/3qWlJfZMZM?ctid=ede17caf-384e-47f1-8c4e-461181a9e945&pbi_source=linkShare)
+The interactive dashboard is available on: [PowerBI Online Dashboard](https://drive.google.com/file/d/1JMwokwSr2ND9J-8UpGzIzN1L1DCKORc6/view?usp=sharing)
